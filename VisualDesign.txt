@@ -1,0 +1,26 @@
+When it comes to visual design it is important to understand how each element will effect the perception of the user. 
+These elements work in tandem and not in isolation, on top of that, it is important to remember how relationships between elements appear due to the human brain. 
+One example is how shading and contrast can give the illusion of depth despite being 2D. 
+In fact, when it comes to many elements of design, implications can be stronger than giving something outright. 
+Letting the user fill in gaps to complete the picture, consciously or not, and getting them involved to completing the design forms a more unique and engaging experience. 
+This idea is backed up with the Gestalt principles, though it is important to remember that giving the user this control opens up the possibility of confusing them by not being explicit.
+
+Like many things in life, the principles of design are suggestions, not hardset rules. 
+There are many exceptions where one is willing to tradeoff something to achieve more in a specific circumstance. 
+It's important to take a holistic approach when designing to keep the careful balance in guiding the user to intended behavior. 
+
+Some good examples of bad design would be a hotel I was once at; the elevator had two numbers, the floor number next to the door in the middle and the elevator number in the upper part.
+This caused confusion as it was initially ambiguous to determine which one was what. Without the context clues and deduction one could not even tell the upper number was the elevator number.
+With both numbers not being visually distinct in any matter, users will find it hard to choose what to focus on. On top of that, the information conveyed gets mixed up too.
+
+Proper use of design principles, or educated subversions of them, help users navigate through the product and use it as intended. 
+Allowing users to feel in control and understand the product reduces frustration and keeps a smoother experience. 
+However, the benefits should be seen as more than just practical. 
+The ability to manipulate emotions of the user further reinforces the experience of using the product. 
+Having some memory with emotion tied to it also helps strengthen memorability and engagement. 
+
+Now with such a powerful tool, how does on practice to use it? 
+With the rise of digital tools, many forget the importance of the analog experience. 
+It is of great importance to try analog before digital to build instinct and habits which will help build to digital skills. 
+Since most digital tools are also reflection of some analog tool, it is vital to know the basis on which they are built on. 
+Understanding the how helps even when one doesn't do it themselves. Having a framework to build off of gives a better idea than a blind guess. 
